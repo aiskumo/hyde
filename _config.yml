@@ -10,8 +10,8 @@ permalink:        pretty
 title:            Aiswarya Vinod Kumar 
 tagline:          graduate student
 description:      'passionate about learning.'
-url:              http://aiskumo.github.io/hyde
-baseurl:          /
+url:              http://aiskumo.github.io
+baseurl:          /hyde
 
 author:
   name:           'Aiswarya Vinod Kumar'
