@@ -7,6 +7,6 @@ title: About
 
 Hi there! I'm Aiswarya, a hearing impaired grad student. You can find me on [LinkedIn](https://www.linkedin.com/in/avinodku/)
 
-Have questions or suggestions? Feel free to email me at [aiswaryavinod92@gmail.com](aiswaryavinod92@gmail.com)
+Have questions or suggestions? Feel free to email me! 
 
 Thanks for reading!
