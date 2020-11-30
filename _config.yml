@@ -11,11 +11,11 @@ title:            Aiswarya Vinod Kumar
 tagline:          graduate student
 description:      'passionate about learning.'
 url:              http://aiskumo.github.io
-baseurl:          /hyde
+baseurl:          /hyde/
 
 author:
   name:           'Aiswarya Vinod Kumar'
-  url:            http://aiskumo.github.io/hyde 
+  url:            http://aiskumo.github.io/hyde/
 
 paginate:         5
 
