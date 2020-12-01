@@ -72,7 +72,7 @@ I've done several projects over the years which dip into natural language proces
 * Extracted i-vectors from Emo-DB audio using ALIZE, an open source speaker recognition tool(similar to Kaldi written in C++), and ran feature extraction scripts using Bash.<br>
 * Tested different acoustic features using MLP models to compare performances using TensorFlow/Keras.<br>
 * Developed MLP models to classify emotions in speech independent of text/context, on the basis of different audio features.<br>
-— Technology/libraries: Python, TensorFlow/Keras, MATLAB, ALIZE, C++, Bash<br>
+* Technology/libraries: Python, TensorFlow/Keras, MATLAB, ALIZE, C++, Bash<br>
 
 
 
