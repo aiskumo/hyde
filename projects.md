@@ -1,11 +1,13 @@
 <h1>Experience</h1>
 <h3>Carnegie Mellon University, PA [Aug 2020 - Dec 2020]</h3>
 <i>Graduate Teaching Assistant, Introduction to Deep Learning</i><br>
+<i>Pittsburgh, Pennsylvania</i><br>
 * Answering student questions on Piazza, holding office hours/recitations, mentoring student projects with graph networks/GANs. <br>
 * Grading student project reports, testing assignments/in-class Kaggle competitions inclusive of LSTMs, CNNs, RNNs, MLPs. <br>
 
 <h3>Kerala Startup Mission - Ernst & Young Joint Venture [May 2018 - Jul 2018]</h3>
-<i>Intern</i> -- <i>Trivandrum, India</i><br>
+<i>Intern</i><br>
+<i>Trivandrum, India</i><br>
 * Created a NLP pipeline for data preprocessing of large text datasets and parsing data from PDF files using NLTK and SpaCy.<br>
 * Designed an algorithm to select the contextual meaning of advanced English words, and to determine the difficulty level of these words by considering word length and Flesch–Kincaid scores.<br>
 * Developed web services using Flask to handle text and JSON files, identify advanced English words, and display contextual meaning.<br>
@@ -34,6 +36,7 @@ I've done several projects over the years which dip into natural language proces
 * Predicting and plotting out trajectories of ships using various machine learning algorithms such as XGBoost, Random Forest, HMM, as well as SVM.<br>
 * Analyzing variation in latitude & longitude data from the 99GB [AIS Dataset](https://coast.noaa.gov/htdata/CMSP/AISDataHandler/2019/index.html).<br>
 * Technologies/libraries: Python, SQL, [Splice Machine](https://splicemachine.com/), Sklearn, Numpy, GeoPandas/Pandas <br>
+
 
 
 <h3> Mask-Proxy Loss for Text-Independent Speaker Verification [Jan 2020 - Aug 2020]</h3>
