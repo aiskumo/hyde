@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: page
 title: About
 ---
 
 <!-- <p class="message"> </p>-->
+
+
 
 Hi there! I'm Aiswarya. I'm currently pursuing Master of Science in Electrical and Computer Engineering at Carnegie Mellon and plan to leverage my coursework and professional skills in my upcoming endeavors. I'm seeking full-time opportunities in CS/ECE starting in January 2021.
 
