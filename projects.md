@@ -11,26 +11,23 @@ I've done several projects over the years which dip into natural language proces
 <i>Graduate Research Project/Research Assistant</i><br>
 <em>Supervisor: Dr.Corina Pasareanu, CyLab CMU</em><br>
 <i>Team Size: 4</i>
-<ul>
-  <li>Collaboration between CyLab CMU, University of Virginia and University of York, England.</li>
-  <li>Identifying potential weak-points of ML models which analyze the response time of drivers in vehicles where the aim is to improve handover between system and driver in autonomous vehicles. </li>
-  <li>Training and testing the models with adversarial examples using Cleverhans in TensorFlow to improve robustness of the model.</li>
-  <li>Evaluating performance of the models with different adversarial robustness libraries such as ART and Cleverhans.</li>
-  <li>Technology/libraries: Docker, TensorFlow, Marabou, Python, ART, Cleverhans </li>
-</ul>
+* Collaboration between CyLab CMU, University of Virginia and University of York, England.
+* Identifying potential weak-points of ML models which analyze the response time of drivers in vehicles where the aim is to improve handover between system and driver in autonomous vehicles. 
+* Training and testing the models with adversarial examples using Cleverhans in TensorFlow to improve robustness of the model.
+* Evaluating performance of the models with different adversarial robustness libraries such as ART and Cleverhans.
+* Technology/libraries: Docker, TensorFlow, Marabou, Python, ART, Cleverhans
+
 
 
 <h3> Mask-Proxy Loss for Text-Independent Speaker Verification</h3>
 <i>Graduate Research Project></i><br>
 <em>Supervisor: Dr. Bhiksha Raj Ramakrishnan, CMU </em><br>
 <i> Team Size: 2</i>
-<ul>
-  <li>Collaborated in applying proxy-based loss in speaker recognition which achieved state of the art equal error rate (EER).</li>
-  <li>Analyzed different loss techniques like center loss, triplet loss, mask proxy loss to determine best performance. </li>
-  <li>Trained CNN models with self-attention pooling in PyTorch using AWS on the 6,000+ speaker VoxCeleb database.</li>
-  <li>Technology/libraries: AWS, Python, Numpy, PyTorch</li>
-  <li>ArXiv: [Mask-Proxy Loss for Text-Independent Speaker Verification](https://arxiv.org/abs/2011.04491)
-</ul>
+* Collaborated in applying proxy-based loss in speaker recognition which achieved state of the art equal error rate (EER).
+* Analyzed different loss techniques like center loss, triplet loss, mask proxy loss to determine best performance. 
+* Trained CNN models with self-attention pooling in PyTorch using AWS on the 6,000+ speaker VoxCeleb database.
+* Technology/libraries: AWS, Python, Numpy, PyTorch
+* ArXiv: [Mask-Proxy Loss for Text-Independent Speaker Verification](https://arxiv.org/abs/2011.04491)
 
 <h3></h3>
 
