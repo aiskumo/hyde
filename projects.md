@@ -8,7 +8,7 @@ I've done several projects over the years which dip into natural language proces
 </p>
 
 <h3>Safety of Shared Control in Autonomous Driving</h3>
-<i>Graduate Research Project/Research Assistant</i><tab></tab>
+<i>Graduate Research Project/Research Assistant</i><br>
 <em>Supervisor: Dr.Corina Pasareanu, CyLab CMU</em>
 <ul>
   <li>A collaboration between CyLab CMU, University of Virginia and University of York, England.</li>
@@ -26,5 +26,7 @@ I've done several projects over the years which dip into natural language proces
   <li>Trained CNN models with self-attention pooling in PyTorch using AWS on the 6,000+ speaker VoxCeleb database.</li>
   <li>Technology/libraries: AWS, Python, Numpy, PyTorch</li>
 </ul>
+
+<h3></h3>
 
 
