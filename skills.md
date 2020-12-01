@@ -1,7 +1,7 @@
 <h1>Education</h1>
 <h3>Carnegie Mellon University [Aug 2019 - Dec 2020(expected)]</h3>
 <i>Master of Science in Electrical and Computer Engineering</i><br>
-<i>Pittsburgh, PA</i>
+<i>Pittsburgh, PA</i><br>
 * Relevant coursework: Deep Learning, Computer Systems, Computer Vision, Reliable Distributed Systems (ongoing), Machine Learning(ongoing)
 
 <h3>College of Engineering, Trivandrum [Aug 2015 - May 2019]</h3> 
