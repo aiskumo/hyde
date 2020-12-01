@@ -24,7 +24,6 @@ I've done several projects over the years which dip into natural language proces
 
 <h3>Safety of Shared Control in Autonomous Driving [Aug 2020 - Dec 2020]</h3>
 <i>Graduate Research Project/Research Assistant</i><br>
-<em>Supervisor: Dr.Corina Pasareanu, CyLab CMU</em><br>
 <i> Institution: Carnegie Mellon University</i><br>
 <i>Team Size: 4</i><br>
 * Collaboration between CyLab CMU, University of Virginia and University of York, England.<br>
@@ -45,7 +44,6 @@ I've done several projects over the years which dip into natural language proces
 
 <h3> Mask-Proxy Loss for Text-Independent Speaker Verification [Jan 2020 - Aug 2020]</h3>
 <i>Graduate Research Project</i><br>
-<em>Supervisor: Dr. Bhiksha Raj Ramakrishnan, CMU </em><br>
 <i> Institution: Carnegie Mellon University</i><br>
 <i>Team Size: 2</i><br>
 
@@ -77,7 +75,6 @@ I've done several projects over the years which dip into natural language proces
 
 <h3>Poetic Meter Classification Using i-Vector-MTF Fusion [Jan 2019 - Jun 2019]</h3>
 <i>Research Project</i><br>
-<em>Supervisor: Dr. Rajeev Rajan, College of Engineering Trivandrum</em><br>
 <i> Institution: College of Engineering, Trivandrum</i><br>
 * Trained a MLP network with i-vector-MTF fusion features for the purpose of classifying Malayalam poems on the basis of their poetic meters, using TensorFlow/Keras and Python, and improved accuracy by 6%.<br>
 * Extracted i-vectors using [ALIZE ASR](https://alize.univ-avignon.fr/)(similar to Kaldi, written in C++) and ran the feature extraction scripts using Bash.<br>
