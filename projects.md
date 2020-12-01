@@ -9,7 +9,7 @@ I've done several projects over the years which dip into natural language proces
 </p>
 
 
-<h3>Safety of Shared Control in Autonomous Driving [Aug 2020 - Dec 2020]</h3>
+<h2>Safety of Shared Control in Autonomous Driving [Aug 2020 - Dec 2020]</h2>
 <i>Graduate Research Project/Research Assistant</i><br>
 <em>Supervisor: Dr.Corina Pasareanu, CyLab CMU</em><br>
 <i>Team Size: 4</i><br>
