@@ -29,3 +29,6 @@ Relevant coursework: Embedded Systems, Computer Communication, Pattern Recogniti
 <h1> Publications</h1>
 * [_Mask-Proxy Loss for Text-Independent Speaker Verification_,Jiachen Lian, Aiswarya Vinod Kumar, Hira Dhamyal, Bhiksha Raj, Rita Singh](https://arxiv.org/abs/2011.04491).<br>
 * [_Poetic Meter Classification Using I-Vector MTF Fusion_(Interspeech 2020), Rajeev Rajan, Aiswarya Vinod Kumar, Ben P. Babu](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1794.html).
+
+<h1> Interests</h1>
+  Deep Learning | Machine Learning | Assistive Technology | Interactive Systems | Autonomous Technology 
