@@ -23,7 +23,7 @@ I've done several projects over the years which dip into natural language proces
 <i>Machine Learning & Signal Processing, Course Project</i><br>
 <i>Team Size: 4 </i><br>
 * Predicting and plotting out trajectories of ships using various machine learning algorithms such as XGBoost, Random Forest, HMM, as well as SVM.<br>
-* Analyzing variation in latitude & longitude data from the 99GB [AIS Dataset].(https://coast.noaa.gov/htdata/CMSP/AISDataHandler/2019/index.html)<br>
+* Analyzing variation in latitude & longitude data from the 99GB [AIS Dataset](https://coast.noaa.gov/htdata/CMSP/AISDataHandler/2019/index.html).<br>
 * Technologies/libraries: Python, SQL, Splice Machine, Sklearn, Numpy, GeoPandas/Pandas <br>
 
 
@@ -59,7 +59,7 @@ I've done several projects over the years which dip into natural language proces
 <i>Research Project</i><br>
 <em>Supervisor: Dr. Rajeev Rajan, College of Engineering Trivandrum</em><br>
 * Trained a MLP network with i-vector-MTF fusion features for the purpose of classifying Malayalam poems on the basis of their poetic meters, using TensorFlow/Keras and Python, and improved accuracy by 6%.<br>
-* Extracted i-vectors using ALIZE ASR, an open source speaker recognition tool (similar to Kaldi & in C++) and ran the feature extraction scripts using Bash.<br>
+* Extracted i-vectors using [ALIZE ASR](https://alize.univ-avignon.fr/)(similar to Kaldi, written in C++) and ran the feature extraction scripts using Bash.<br>
 * Extracted and experimented on i-vectors/MTF features using MATLAB/Octave.<br>
 * Technology/libraries: Python, TensorFlow/Keras, MATLAB, ALIZE, C++, Bash<br>
 * Paper accepted to Interspeech 2020: [Poetic Meter Classification Using i-Vector-MTF Fusion](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1794.html)<br>
@@ -69,7 +69,7 @@ I've done several projects over the years which dip into natural language proces
 <i>Capstone Project</i><br>
 <i> Team Size: 3</i><br>
 * Extracted audio features using MATLAB, with audio from Emo-DB (Berlin Database of Emotional Speech).<br>
-* Extracted i-vectors from Emo-DB audio using ALIZE, an open source speaker recognition tool(similar to Kaldi written in C++), and ran feature extraction scripts using Bash.<br>
+* Extracted i-vectors from Emo-DB audio using [ALIZE ASR](https://alize.univ-avignon.fr/)(similar to Kaldi, written in C++), and ran feature extraction scripts using Bash.<br>
 * Tested different acoustic features using MLP models to compare performances using TensorFlow/Keras.<br>
 * Developed MLP models to classify emotions in speech independent of text/context, on the basis of different audio features.<br>
 * Technology/libraries: Python, TensorFlow/Keras, MATLAB, ALIZE, C++, Bash<br>
