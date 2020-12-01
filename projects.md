@@ -11,6 +11,7 @@
 * Created a NLP pipeline for data preprocessing of large text datasets and parsing data from PDF files using NLTK and SpaCy.<br>
 * Designed an algorithm to select the contextual meaning of advanced English words, and to determine the difficulty level of these words by considering word length and Flesch–Kincaid scores.<br>
 * Developed web services using Flask to handle text and JSON files, identify advanced English words, and display contextual meaning.<br>
+---
 
 <h1>Projects </h1>
 <p>
@@ -91,6 +92,8 @@ I've done several projects over the years which dip into natural language proces
 * Tested different acoustic features using MLP models to compare performances using TensorFlow/Keras.<br>
 * Developed MLP models to classify emotions in speech independent of text/context, on the basis of different audio features.<br>
 * Technology/libraries: Python, TensorFlow/Keras, MATLAB, ALIZE, C++, Bash<br>
+
+---
 
 <h1> Coursework </h1>
 
