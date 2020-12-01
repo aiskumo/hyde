@@ -8,7 +8,7 @@ I've done several projects over the years which dip into natural language proces
 </p>
 
 <h3>Safety of Shared Control in Autonomous Driving</h3>
-<i>Research Assistant</i>
+<dd>Research Assistant</dd>
 <ul>
   <li>A collaboration between CyLab CMU, University of Virginia and University of York, England.</li>
   <li>Identifying potential weak-points of ML models which analyze the response time of drivers in vehicles where the aim is to improve handover between system and driver in autonomous vehicles. </li>
