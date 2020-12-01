@@ -5,7 +5,7 @@
 * Grading student project reports, testing assignments/in-class Kaggle competitions inclusive of LSTMs, CNNs, RNNs, MLPs. <br>
 
 <h3>Kerala Startup Mission - Ernst & Young Joint Venture [May 2018 - Jul 2018]</h3>
-<i>Intern</i><span style="display:inline-block; width: 0.2;"></span><i>Trivandrum, India</i>
+<i>Intern</i> -- <i>Trivandrum, India</i>
 * Created a NLP pipeline for data preprocessing of large text datasets and parsing data from PDF files using NLTK and SpaCy.<br>
 * Designed an algorithm to select the contextual meaning of advanced English words, and to determine the difficulty level of these words by considering word length and Flesch–Kincaid scores.<br>
 * Developed web services using Flask to handle text and JSON files, identify advanced English words, and display contextual meaning.<br>
