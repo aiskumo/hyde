@@ -16,11 +16,11 @@ Relevant coursework: Embedded Systems, Computer Communication, Pattern Recogniti
 * **Machine Learning**: Data Visualization, Predictive Modeling, Clustering & Classification<br>
 
 <h1>Scores</h1>
-<ul> **TOEFL: 60/60**
+<ul> <b>TOEFL: 60/60</b>
   <li> Reading: 30/30 </li>
   <li> Writing: 30/30 </li>
   </ul>
-<ul> **GRE: 329/340**
+<ul> <b>GRE: 329/340</b>
   <li> Quantitative: 167/170 </li>
   <li> Qualitative: 162/170 </li>
   <li> Analytical: 5.0/6 </li>
