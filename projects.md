@@ -21,7 +21,7 @@ I've done several projects over the years which dip into natural language proces
 <i>Team Size: 4 </i><br>
 * Predicting and plotting out trajectories of ships using various machine learning algorithms such as XGBoost, Random Forest, HMM, as well as SVM.<br>
 * Analyzing variation in latitude & longitude data from the 99GB [AIS Dataset](https://coast.noaa.gov/htdata/CMSP/AISDataHandler/2019/index.html).<br>
-* Technologies/libraries: Python, SQL, Splice Machine, Sklearn, Numpy, GeoPandas/Pandas <br>
+* Technologies/libraries: Python, SQL, [Splice Machine](https://splicemachine.com/), Sklearn, Numpy, GeoPandas/Pandas <br>
 
 
 <h3> Mask-Proxy Loss for Text-Independent Speaker Verification [Jan 2020 - Aug 2020]</h3>
