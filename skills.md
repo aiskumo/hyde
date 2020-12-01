@@ -15,6 +15,16 @@ Relevant coursework: Embedded Systems, Computer Communication, Pattern Recogniti
 * **Frameworks/Tools/ Libraries**: TensorFlow/PyTorch, NLTK, Bash, Flask, SpaCy, Numpy, UNIX/Linux, Git, AWS, NetworkX<br>
 * **Machine Learning**: Data Visualization, Predictive Modeling, Clustering & Classification<br>
 
+<h1>Scores</h1>
+<ul> TOEFL: 60/60 <br>
+  <li> Reading: 30/30 </li><br>
+  <li> Writing: 30/30 </li><br>
+  </ul>
+<ul> GRE: 329/340 <br>
+  <li> Quantitative: 167/170 </li><br>
+  <li> Qualitative: 162/170 </li><br>
+  <li> Analytical: 5.0/6 </li><br>
+
 <h1> Publications</h1>
 * [_Mask-Proxy Loss for Text-Independent Speaker Verification_,Jiachen Lian, Aiswarya Vinod Kumar, Hira Dhamyal, Bhiksha Raj, Rita Singh](https://arxiv.org/abs/2011.04491).<br>
 * [_Poetic Meter Classification Using I-Vector MTF Fusion_(Interspeech 2020), Rajeev Rajan, Aiswarya Vinod Kumar, Ben P. Babu](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1794.html).
