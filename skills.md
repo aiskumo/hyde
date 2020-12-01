@@ -3,12 +3,12 @@
 <h3>Carnegie Mellon University [Dec 2020(expected)]</h3>
 <i>Master of Science in Electrical and Computer Engineering</i><br>
 <i>Pittsburgh, PA</i><br>
-* Relevant coursework: Deep Learning, Computer Systems, Computer Vision, Reliable Distributed Systems (ongoing), Machine Learning(ongoing)
+Relevant coursework: Deep Learning, Computer Systems, Computer Vision, Reliable Distributed Systems (ongoing), Machine Learning(ongoing)
 
 <h3>College of Engineering, Trivandrum [May 2019]</h3> 
 <i>Bachelor of Technology in Electronics and Communications Engineering</i><br>
 <i>Trivandrum, India</i><br>
-* Relevant coursework: Embedded Systems, Computer Communication, Pattern Recognition, Digital Image Processing
+Relevant coursework: Embedded Systems, Computer Communication, Pattern Recognition, Digital Image Processing
 
 <h1>Skills</h1>
 * **Programming Languages**: Python, C++, C, MATLAB, SQL<br>
