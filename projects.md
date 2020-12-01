@@ -1,8 +1,13 @@
+<h1>Experience</h1>
+<h3>Carnegie Mellon University, PA [Aug 2020 - Dec 2020]</h3>
+<i>Graduate Research Assistant, Introduction to Deep Learning</i><br>
+* Answering student questions on Piazza, holding office hours/recitations, mentoring student projects with graph networks/GANs. <br>
+* Grading student project reports, testing assignments/in-class Kaggle competitions inclusive of LSTMs, CNNs, RNNs, MLPs. <br>
 
 
 <h1>Projects </h1>
 <p>
-I've done several projects over the years which dip into natural language processing and deep learning/machine learning. Some of these were for fun, were part of coursework or were research projects. 
+I've done several projects over the years which dip into natural language processing and deep learning/machine learning. Some of these were for fun, were part of coursework or were research projects. These were a fun learning experience.
 </p>
 
 
