@@ -95,28 +95,28 @@ I've done several projects over the years which dip into natural language proces
 <h1> Coursework </h1>
 
 
-<h3>Distributed Fault-Tolerant Book Library[Sep 2020 - Dec 2020]</h3>
+<h3>Distributed Fault-Tolerant Book Library [Sep 2020 - Dec 2020]</h3>
 <i>Institution: Carnegie Mellon University</i><br>
 <i>Team Size: 3</i><br>
 * Developed a fault tolerant distributed system with heartbeats, consensus, checkpointing, total ordering and logging to provide consistency for a miniature book lending library in Flask.<br>
 * Developed a replication manager to track replica membership through communication between fault detectors, servers and handle clients.<br>
 
-<h3>Concurrent Web Proxy[Aug 2020]</h3>
+<h3>Concurrent Web Proxy [Aug 2020]</h3>
 <i>Institution: Carnegie Mellon University</i><br>
 * Developed multithreaded proxy server in C to handle HTTP/1.1 requests between client and server.<br>
 * Used caching with LRU eviction policy to improve speed of requests, and mutual exclusion to make cache accesses thread-safe.
 
-<h3>Unix Shell[Jul 2020]</h3>
+<h3>Unix Shell [Jul 2020]</h3>
 <i>Institution: Carnegie Mellon University</i><br>
 * Developed an Unix shell program in C capable of executing user programs in foreground and background as well as handling signals, job control and I/O redirection.<br>
 
-<h3>Dynamic Memory Allocator[Jul 2020]</h3>
+<h3>Dynamic Memory Allocator [Jul 2020]</h3>
 <i>Institution: Carnegie Mellon University</i><br>
 * Developed a 64-bit dynamic memory allocator in C to handle malloc(), realloc(), calloc() and free() requests.<br>
 * Improved throughput by implementing better-fit allocation with segregated free lists.<br>
 * Optimized memory utilization by boundary coalescing, implementing footer-less allocated blocks, and reducing the minimum block size.<br>
 
-<h3>Cache Simulator[Jun 2020]</h3>
+<h3>Cache Simulator [Jun 2020]</h3>
 <i>Institution: Carnegie Mellon University</i><br>
 * Built a cache simulator in C that parses memory traces as well as simulates misses, hits and evictions using LRU replacement policy.<br>
 
