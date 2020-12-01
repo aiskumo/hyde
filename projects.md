@@ -40,6 +40,7 @@ I've done several projects over the years which dip into natural language proces
 <i>Graduate Research Project</i><br>
 <em>Supervisor: Dr. Bhiksha Raj Ramakrishnan, CMU </em><br>
 <i> Institution: Carnegie Mellon University</i><br>
+<i>Team Size: 2</i><br>
 
 * Collaborated in applying proxy-based loss in speaker recognition which achieved state of the art equal error rate (EER).<br>
 * Analyzed different loss techniques like center loss, triplet loss, mask proxy loss to determine best performance. <br>
