@@ -15,5 +15,5 @@
 * Machine Learning: Data Visualization, Predictive Modeling, Clustering & Classification<br>
 
 <h1> Publications</h1>
-* [_Mask-Proxy Loss for Text-Independent Speaker Verification, Jiachen Lian, Aiswarya Vinod Kumar, Hira Dhamyal, Bhiksha Raj, Rita Singh_](https://arxiv.org/abs/2011.04491).<br>
-* [_Poetic Meter Classification Using I-Vector MTF Fusion, Rajeev Rajan, Aiswarya Vinod Kumar, Ben P. Babu_, accepted to _Interspeech 2020_](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1794.html).
+* [_Mask-Proxy Loss for Text-Independent Speaker Verification_,Jiachen Lian, Aiswarya Vinod Kumar, Hira Dhamyal, Bhiksha Raj, Rita Singh](https://arxiv.org/abs/2011.04491).<br>
+* [_Poetic Meter Classification Using I-Vector MTF Fusion_, Rajeev Rajan, Aiswarya Vinod Kumar, Ben P. Babu_, accepted to _Interspeech 2020_](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1794.html).
