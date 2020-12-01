@@ -1,4 +1,4 @@
-<h1>Experience</h1>
+<u><h1>Experience</h1></u>
 <h3>Carnegie Mellon University, PA [Aug 2020 - Dec 2020]</h3>
 <i>Graduate Teaching Assistant, Introduction to Deep Learning</i><br>
 <i>Pittsburgh, Pennsylvania</i><br>
