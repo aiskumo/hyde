@@ -27,18 +27,19 @@ I've done several projects over the years which dip into natural language proces
 <i> Institution: Carnegie Mellon University</i><br>
 <i>Team Size: 4</i><br>
 * Collaboration between CyLab CMU, University of Virginia and University of York, England.<br>
-* Identifying potential weak-points of ML models which analyze the response time of drivers in vehicles where the aim is to improve handover between system and driver in autonomous vehicles. <br>
-* Training and testing the models with adversarial examples using Cleverhans in TensorFlow to improve robustness of the model.<br>
-* Evaluating performance of the models with different adversarial robustness libraries such as ART and Cleverhans.<br>
-* Technologies/libraries: Docker, TensorFlow, Marabou, Python, ART, Cleverhans<br>
+* Identified potential weak-points of ML driver awareness models which analyze the response time of drivers in vehicles where the aim is to improve handover between system and driver in autonomous vehicles, by analyzing feature variation (per epsilon value) in adversarial examples. <br>
+* Trained and tested the models with adversarial examples in TensorFlow to be more robust against adversarial attacks. <br>
+* Evaluated performance of the models with different adversarial robustness libraries such as ART and CleverHans.<br>
+* Technologies/libraries: Docker, TensorFlow, Marabou, Python, ART, CleverHans<br>
 
 <h3>Prediction of Shipment Arrival Times [Aug 2020 - Dec 2020] </h3>
 <i>Machine Learning & Signal Processing, Course Project</i><br>
 <i> Institution: Carnegie Mellon University</i><br>
 <i>Team Size: 4 </i><br>
-* Predicting and plotting out trajectories of ships using various machine learning algorithms such as XGBoost, Random Forest, HMM, as well as SVM.<br>
-* Analyzing variation in latitude & longitude data from the 99GB [AIS Dataset](https://coast.noaa.gov/htdata/CMSP/AISDataHandler/2019/index.html).<br>
-* Technologies/libraries: Python, SQL, [Splice Machine](https://splicemachine.com/), Sklearn, Numpy, GeoPandas/Pandas <br>
+* Visualized trajectories of ships using Folium. <br>
+* Experimented with various machine learning algorithms such as XGBoost, Random Forest, SVM to predict shipment arrival times.<br>
+* Analyzed variation in latitude & longitude data from a 30GB subset of the [AIS Dataset](https://coast.noaa.gov/htdata/CMSP/AISDataHandler/2019/index.html).<br>
+* Technologies/libraries: Python, SQL, [Splice Machine](https://splicemachine.com/), scikit-learn, Numpy, GeoPandas/Pandas, Folium, Matplotlib <br>
 
 
 
