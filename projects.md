@@ -2,8 +2,8 @@
 <h3>Carnegie Mellon University, PA [Aug 2020 - Dec 2020]</h3>
 <i>Graduate Teaching Assistant, Introduction to Deep Learning</i><br>
 <i>Pittsburgh, Pennsylvania</i><br>
-* Answering student questions on Piazza, holding office hours/recitations, mentoring student projects with graph networks/GANs. <br>
-* Grading student project reports, testing assignments/in-class Kaggle competitions inclusive of LSTMs, CNNs, RNNs, MLPs. <br>
+* Answered student questions on Piazza, held office hours/recitations, mentored student projects with deep learning models. <br>
+* Graded student project presentations & reports, tested assignments/in-class Kaggle competitions inclusive of LSTMs, CNNs, RNNs, MLPs. <br>
 
 <h3>Kerala Startup Mission - Ernst & Young Joint Venture [May 2018 - Jul 2018]</h3>
 <i>Intern</i><br>
