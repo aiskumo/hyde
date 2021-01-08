@@ -21,12 +21,14 @@ Relevant coursework: Embedded Systems, Computer Communication, Pattern Recogniti
   <li> Writing: 30/30 </li>
   </ul>
 <ul> <b>GRE: 329/340</b>
-  <li> Quantitative: 167/170 </li>
-  <li> Qualitative: 162/170 </li>
-  <li> Analytical: 5.0/6 </li>
+  <li> Quantitative: 167/170 [91st percentile] </li>
+  <li> Qualitative: 162/170 [91st percentile]</li>
+  <li> Analytical: 5.0/6 [92nd percentile]</li>
   </ul>
 
 <h1> Publications</h1>
 * [_Mask-Proxy Loss for Text-Independent Speaker Verification_,Jiachen Lian, Aiswarya Vinod Kumar, Hira Dhamyal, Bhiksha Raj, Rita Singh](https://arxiv.org/abs/2011.04491).<br>
 * [_Poetic Meter Classification Using I-Vector MTF Fusion_(Interspeech 2020), Rajeev Rajan, Aiswarya Vinod Kumar, Ben P. Babu](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1794.html).
+
+
 
