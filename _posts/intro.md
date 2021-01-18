@@ -1,0 +1,10 @@
+---
+layout: post
+title: Welcome!
+---
+
+Hi there! I'm Aiswarya. I recently graduated in December 2020 from Carnegie Mellon with a Master of Science in Electrical and Computer Engineering and I plan to leverage my coursework and professional skills in my upcoming endeavors. I'm seeking full-time opportunities in software engineering / machine learning / deep learning / automatic speech recognition / natural language processing starting in January 2021.
+
+I possess a hearing disability and use a cochlear implant and spoken English to communicate, so communication is preferred over email/video call instead of phone calls :)
+
+Have questions or suggestions? Feel free to contact me! You can also find me on [LinkedIn](https://www.linkedin.com/in/avinodku/).
