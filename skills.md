@@ -3,13 +3,13 @@
 <h3>Carnegie Mellon University [Dec 2020]</h3>
 <i>Master of Science in Electrical and Computer Engineering</i><br>
 <i>Pittsburgh, PA</i><br>
-Program GPA: 3.75/4 
+Program GPA: 3.75/4 <br>
 Relevant coursework: Deep Learning, Computer Systems, Computer Vision, Reliable Distributed Systems, Machine Learning and Signal Processing
 
 <h3>College of Engineering, Trivandrum [May 2019]</h3> 
 <i>Bachelor of Technology in Electronics and Communications Engineering</i><br>
 <i>Trivandrum, India</i><br>
-Overall GPA: 8.84/10 
+Overall GPA: 8.84/10 <br>
 Relevant coursework: Embedded Systems, Computer Communication, Pattern Recognition, Digital Image Processing, Object Oriented Programming 
 
 <h1>Skills</h1>
